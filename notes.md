@@ -8,3 +8,4 @@ umap_params = {
 Takes about 6 seconds to test 2, 10, 50, 100
 
 ![no subsets for trustworthiness check - run out of memory](image.png)
+![alt text](image-1.png)
