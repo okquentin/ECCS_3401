@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+mpl_toolkits.mplot3d
+umap-learn
+scikit-learn
+tensorflow
